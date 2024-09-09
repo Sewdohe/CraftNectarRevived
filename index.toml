@@ -341,11 +341,6 @@ hash = "946d1aa13a7ac2fc04d2b348a32f8a8f3106805a9caba6d6d3427446bfc55cf0"
 metafile = true
 
 [[files]]
-file = "mods/numismaticclaim.pw.toml"
-hash = "1620b1ab56fe6633a53b82104f8e085e2e32ae58c2559312a801bed0e77ad0d6"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
