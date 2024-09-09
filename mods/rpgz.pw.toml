@@ -1,0 +1,13 @@
+name = "RpgZ"
+filename = "rpgz-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7517a44403b97c15d26caba2acd3f34a0431f766"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886846
+project-id = 404828
