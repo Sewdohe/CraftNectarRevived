@@ -51,6 +51,11 @@ hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "1f9a47d305fe3ae6403224c28381dbd4d6c829f6b41d2e304bae3b3a1c52069a"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "0a5d165cada1c582ef2cfe7cd068f2808227edd91a4cefaffe7b99d02f834ffa"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "92420a8464f7da1f0b558bff33b1a0e7924acd0a4b72735c6ec6fd7a5495c0d0"
 metafile = true
 
 [[files]]
