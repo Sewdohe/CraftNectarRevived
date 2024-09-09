@@ -141,6 +141,11 @@ hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
+file = "mods/daves-potioneering.pw.toml"
+hash = "cf89c388615efcebc1d59a03787f57fcae38ef271d6ae2abac3d6a0a3baf1ee6"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "b89156102d6e0c87c420623efc90cb4f949ed111699af75a1190aaee24aece8a"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "f0167f467d5795cddf3d78dfab13664562f0abe7b6db84d51bde0ac915b347be"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "71c58a89cfc4da4236844f124b7a199e0dfaea507baa6842582bd45cdadfe1bd"
 metafile = true
 
 [[files]]
@@ -251,18 +261,8 @@ hash = "f1de7e0580ac0d7a3defd87cb8bb4a5597c4e0fd7b903227efc12678bc0dc5d4"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "643bd4c130a5ad6960a4c6ae1c90ff6ad125124559dcc56fd037ba0406f16241"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "c60ef9a042ed9891745d7797917215bd00144156a2761018f3ccee6741092303"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "46da76d650af422233ae0a20187b8acb2b1565afa014e22c833c61e5d736b721"
 metafile = true
 
 [[files]]
