@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
+hash = "7a0ffe8ef6ef8b9776d24f63e87aff47e294b121a7ac5eb6803d87fd00788a21"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
 metafile = true
 
 [[files]]
