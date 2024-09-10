@@ -298,7 +298,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1bd48d47a47ffc6831f6c35575bf75fa595aa5aead48e6f188bce9278a2dd180"
+hash = "ae8b5883d90300dc94968ced1a336032bb8d5dc629123064068d72d8c3ab8608"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -804,6 +804,11 @@ hash = "308030498a282075732310b66eecf419baa2217ce88496ad87818ae21b1d2423"
 metafile = true
 
 [[files]]
+file = "mods/controllable-fabric.pw.toml"
+hash = "83def1998857e562c3b26869a3f388bdf3fc40b865a2f88be65d982e18644688"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
@@ -921,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "6ed3fd48414cb229b04b89a1373f486e698022a7ba218668052bb78c32cb1df4"
 metafile = true
 
 [[files]]
