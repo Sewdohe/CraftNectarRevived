@@ -814,6 +814,16 @@ hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "10ee372d7461604db3a3ba540cd9b108c67efa025d5ac9c13ae2e69d5dad443e"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "7d8c0c0bb4d93eb33b62bc5e69509051de5902b6d40c10807ed0f8e96507139a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
@@ -1246,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "68add5c64f9ccf69b47249a581e99512470df9603110e7e1c1bde7879f0f9940"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a3e687167945b36dc8cd67f8bb4fb487f95bfd43ef4b332af0cd32f720e2142c"
 metafile = true
 
 [[files]]
