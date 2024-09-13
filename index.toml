@@ -724,6 +724,11 @@ hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "84570373e2f91da22a1e0b716a6e42ca09a49f81bc2020d6148a7abfcf9cf75b"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
 metafile = true
@@ -764,6 +769,11 @@ hash = "9150d439b5f58ee6c672c8fb04b66a2ee08c4244c4af78794311bfb96774a48f"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
@@ -786,6 +796,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "105993c79be34c48a43a3d7d127a02e1298a51b1f600a132be8e79f194cd6092"
 metafile = true
 
 [[files]]
@@ -921,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
 metafile = true
 
 [[files]]
@@ -1079,8 +1099,18 @@ hash = "0a5d165cada1c582ef2cfe7cd068f2808227edd91a4cefaffe7b99d02f834ffa"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+metafile = true
+
+[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "946d1aa13a7ac2fc04d2b348a32f8a8f3106805a9caba6d6d3427446bfc55cf0"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-quivers.pw.toml"
+hash = "8f8e40b115cc520436d522bf3e317c2eedcf3a94333951c7361ea8e4ff0ae353"
 metafile = true
 
 [[files]]
@@ -1226,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
 
 [[files]]
