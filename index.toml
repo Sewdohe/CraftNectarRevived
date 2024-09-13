@@ -994,6 +994,11 @@ hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d88ef85c28618c88b9ab445ff6abbb874a8e6f7cff52096f5d07bb7bba843031"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "c60ef9a042ed9891745d7797917215bd00144156a2761018f3ccee6741092303"
 metafile = true
@@ -1074,11 +1079,6 @@ hash = "0a5d165cada1c582ef2cfe7cd068f2808227edd91a4cefaffe7b99d02f834ffa"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "92420a8464f7da1f0b558bff33b1a0e7924acd0a4b72735c6ec6fd7a5495c0d0"
-metafile = true
-
-[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "946d1aa13a7ac2fc04d2b348a32f8a8f3106805a9caba6d6d3427446bfc55cf0"
 metafile = true
@@ -1086,6 +1086,16 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "695b9f5005afd8b091a887ae44a63b1626cf5a223031682dfe69eac21fec71f9"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f42ba2ad4e7b34f18d70658e03d9f3047c8616969d2d9bca723af39ed86ad4d8"
 metafile = true
 
 [[files]]
@@ -1131,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "f6a672f1ce665498458f5fa2a66e0d6d95f7b6b970a6405a964b8b29855b03cc"
 metafile = true
 
 [[files]]
@@ -1231,6 +1246,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e63f3f83f8e4a90b0a604ef29863cf371d9af163e763f1df5524c64341a830ed"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
 metafile = true
 
 [[files]]
