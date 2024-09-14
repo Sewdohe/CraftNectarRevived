@@ -884,6 +884,11 @@ hash = "71c58a89cfc4da4236844f124b7a199e0dfaea507baa6842582bd45cdadfe1bd"
 metafile = true
 
 [[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "bd35dd6f67127cd67c658f549e449cd8205d395ac718541fd20708bfaf42a4fc"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b1ae4d9b39cbaf735cedd08dcce83921f1bb68baa5ff726e41a06765c7c41b80"
 metafile = true
