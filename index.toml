@@ -689,6 +689,11 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "899fc2b4e888e6c30235b9de8cf65ccbb5392e94b084a24f6d8e055cb7f09ae2"
 
 [[files]]
+file = "mods/a-man-with-plushies.pw.toml"
+hash = "741f4cc48c6dd8f6e3dfeabadc7b01b004d402b972670184f30e0774ec713cdb"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
