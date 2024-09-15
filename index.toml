@@ -1199,11 +1199,6 @@ hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -1291,11 +1286,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
-metafile = true
-
-[[files]]
-file = "mods/size-shifting-potions.pw.toml"
-hash = "add38c4fabfdd3eb232e3e1e3727586dd7f9a99adf2bc799d3dfc8443d79db85"
 metafile = true
 
 [[files]]
