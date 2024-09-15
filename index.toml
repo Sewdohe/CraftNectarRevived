@@ -769,6 +769,11 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9150d439b5f58ee6c672c8fb04b66a2ee08c4244c4af78794311bfb96774a48f"
 metafile = true
@@ -906,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "bd35dd6f67127cd67c658f549e449cd8205d395ac718541fd20708bfaf42a4fc"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser-forge.pw.toml"
+hash = "1c3f9303727ad05b34a7e239f5e9c86121de3dddd7402c19b3ef209b56ac56ef"
 metafile = true
 
 [[files]]
