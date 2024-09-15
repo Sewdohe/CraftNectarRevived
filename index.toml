@@ -839,6 +839,16 @@ hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "a7528afab36d36bd6cbb4644fa5c34d7647092426d732ee4fec140156763ac59"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "61cb7b9f3bfb1b5ee429cd5a4815b8abdffa1a5900e4d0c9d8bc1765fdce3dc4"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "10ee372d7461604db3a3ba540cd9b108c67efa025d5ac9c13ae2e69d5dad443e"
 metafile = true
@@ -851,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "0147b2d2014ac29a7b1ef993587249ec3bca9a7de136e764d24d0932bf90b10b"
 metafile = true
 
 [[files]]
@@ -999,6 +1014,11 @@ hash = "7a6ade7bfddfb33b5e8c0843f582b3654deacca74b1633c0676d19b82ecc30cd"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-restitched.pw.toml"
+hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
@@ -1006,6 +1026,21 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "adc6d8bb39ea31c192bc7d84d4c8d8448d545c4b819f3176e3230e17b5f953db"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "b448567c24853dc5c38fb625f27714d7508956122a41e697f8447d97d3483534"
+metafile = true
+
+[[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "6000a373837ceb7561eba96566e65e31d438e2572e5c152ea0f5bf35cdcdbfc5"
 metafile = true
 
 [[files]]
@@ -1164,6 +1199,11 @@ hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -1251,6 +1291,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
+metafile = true
+
+[[files]]
+file = "mods/size-shifting-potions.pw.toml"
+hash = "add38c4fabfdd3eb232e3e1e3727586dd7f9a99adf2bc799d3dfc8443d79db85"
 metafile = true
 
 [[files]]
