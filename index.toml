@@ -699,8 +699,18 @@ hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting-integration.pw.toml"
+hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "b03884978f6f554b95ac3ffa2bcb1667e36cecf9cdad741925be79a3f7ad5ba5"
 metafile = true
 
 [[files]]
@@ -1061,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "48304b63aa5e67d573a460935488a0e27b6bad880a94f386d7980186f8627565"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "e5bd4b34bc3b430920b3a73da52b4ab76e51c67d1e2f7c710f05b68047135c01"
 metafile = true
 
 [[files]]
