@@ -1,0 +1,13 @@
+name = "Truly Modular - Modular Item API"
+filename = "Truly-Modular-miapi-fabric-1.1.31-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "064bd8bf9a4f553ec3ae225317fe2b26b84c8aff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5692482
+project-id = 904056

@@ -994,6 +994,11 @@ hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "5ac38dea16ddf7d73810e0528e52a8382bb71060c4191d2969d4408356ed56fe"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
@@ -1181,6 +1186,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
+metafile = true
+
+[[files]]
+file = "mods/modular-item-api.pw.toml"
+hash = "a5da404b34a2e0ce8f8282ecfe7fa6e2d91fc7a80dff50443f9727f1011bffb6"
 metafile = true
 
 [[files]]
@@ -1406,6 +1416,21 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-archery.pw.toml"
+hash = "ef60801d98cf0e0c9421b4718c0ad3fd3a7efcdf1c0171e60b37d54982166d53"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-armory.pw.toml"
+hash = "e026bdd04744c487816e8acd2b7f982bf332d5904fb9e08d319ac58f7f34a609"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-arsenal.pw.toml"
+hash = "2937cfdc865b9d6733121b6d66f200235a494b740b01bafb6ecf23b7be57d60b"
 metafile = true
 
 [[files]]
