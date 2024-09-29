@@ -694,6 +694,11 @@ hash = "741f4cc48c6dd8f6e3dfeabadc7b01b004d402b972670184f30e0774ec713cdb"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "e13decd7dfb68cd726f14550d9e970e93b14ffd280eca11c9e9b175b2511814c"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "073d82755fce8e9fb28ab08327e0b062878c87ee727f9278793a0c297757e3d2"
 metafile = true
@@ -1294,16 +1299,6 @@ hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
-file = "mods/rpgdifficulty.pw.toml"
-hash = "7529a8c26dccc2b8b026e494b20c58771406486bf75367c1cbc0d8a3f31f50ef"
-metafile = true
-
-[[files]]
-file = "mods/rpgz.pw.toml"
-hash = "3fe2ff10332c7c13c5f2875d6b33d2cc2a976ef4c6e9a6c59c57a8dfb63e9e6c"
-metafile = true
-
-[[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "20921407c1c4c2b8627ebc84950ff412f1c8265f578595d10b8e5b1dea4c6d70"
 metafile = true
@@ -1396,11 +1391,6 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "9c686b8a69a61af3b889070efebfb049d0932036ab458a29d409bc193e63c02c"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "a9b60e8434424b2c10e0de9b5d3ab98325b10df2dd9e6aed82e8d7828c981b9f"
 metafile = true
 
 [[files]]
