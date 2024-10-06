@@ -709,6 +709,11 @@ hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "28c4cf830a6c4d09261c7977830cbdf459b80bc00a238558fb7863eea4956dbe"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
@@ -971,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "77487ea1ce0155973aeb6bc176a58eb229529c4baa4243b9fa0e7753fd3195af"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
 metafile = true
 
 [[files]]
@@ -1354,6 +1364,11 @@ hash = "8234594697690ff73886232f1ecce8721abe4b82e063ae6f5e5422b379edabe6"
 metafile = true
 
 [[files]]
+file = "mods/spectral-utilities.pw.toml"
+hash = "ed5b4a5bd389bf1603772f74d04a154aedc53384fa890b0cd68c37bfd122ed0a"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "d45cf31bcd4d65390b9cd0247e6d1603c9fe90df1a1d494c0694d097292f4131"
 metafile = true
@@ -1431,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/truly-modular-arsenal.pw.toml"
 hash = "2937cfdc865b9d6733121b6d66f200235a494b740b01bafb6ecf23b7be57d60b"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
 metafile = true
 
 [[files]]
