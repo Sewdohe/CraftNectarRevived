@@ -724,6 +724,11 @@ hash = "b03884978f6f554b95ac3ffa2bcb1667e36cecf9cdad741925be79a3f7ad5ba5"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae-fabric.pw.toml"
+hash = "6f9b8e80b39e9c37e75d4bdbe59177696f8ea82f24b335922d88e16523ce1713"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "a366ee5f635f8b57b639bcebf356c7fbaa0505f1b74040c75e9d018f5523d26e"
 metafile = true
@@ -1059,6 +1064,11 @@ hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "af771ac72b8e3391bde0e14afb849d926bf924f6ed50f05f78ac88cff8d5a627"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
@@ -1244,6 +1254,11 @@ hash = "8f8e40b115cc520436d522bf3e317c2eedcf3a94333951c7361ea8e4ff0ae353"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api-fabric.pw.toml"
+hash = "d5d931c076d4b9b6ffe7f7a4d1e6135ff4f5f26e34ba53fd5110ea8e83c3375d"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
@@ -1359,6 +1374,21 @@ hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "939c8991d70e5fc3afd661a45d20cfad37200a101f65a5acd9ff81c809b80969"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "ab81aec7340690e2b02c83fe3d636f6e1cf6875d60b24e5929ecc1251c8cc835"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-unofficial-fabric-port.pw.toml"
+hash = "630be18bf3debf5345e04b72d21b7c721eeb53dffb2d2b0e92bc4449961974ad"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "8234594697690ff73886232f1ecce8721abe4b82e063ae6f5e5422b379edabe6"
 metafile = true
@@ -1429,6 +1459,11 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
+file = "mods/trowel.pw.toml"
+hash = "aeefbf036e046bd12f201ca6a0f87232b672938d3b6d0f6046765f4dbfbd356e"
+metafile = true
+
+[[files]]
 file = "mods/truly-modular-archery.pw.toml"
 hash = "ef60801d98cf0e0c9421b4718c0ad3fd3a7efcdf1c0171e60b37d54982166d53"
 metafile = true
@@ -1446,6 +1481,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
+metafile = true
+
+[[files]]
+file = "mods/waffles-placeable-foods.pw.toml"
+hash = "bcb32f0638adcf7cbaf1c9e1c22cc140bb17e91585955a3a3a4617c17d1e8d52"
 metafile = true
 
 [[files]]
