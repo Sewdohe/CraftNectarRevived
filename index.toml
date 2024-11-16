@@ -864,6 +864,11 @@ hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "d08e0d9f0bedc0141ef53d979b555fd170c5d7fcef1a91fabf45e0f37c913fa7"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
 metafile = true
@@ -896,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "0147b2d2014ac29a7b1ef993587249ec3bca9a7de136e764d24d0932bf90b10b"
+metafile = true
+
+[[files]]
+file = "mods/create-storage.pw.toml"
+hash = "67efa1c63549cd02c1d44614506da0426efe52b9ab729fc19576434ad9ccff8b"
 metafile = true
 
 [[files]]
@@ -1026,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "419f08c4fcf781412c9f96edeef3c6d47c043ebb142f040f2d5033bba346debf"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "e740ca5eb49784f61c2c4bc340bc83481d2629b99e3ad16af7586710877607c8"
 metafile = true
 
 [[files]]
