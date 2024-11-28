@@ -904,6 +904,11 @@ hash = "0147b2d2014ac29a7b1ef993587249ec3bca9a7de136e764d24d0932bf90b10b"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "e208db5949d740af56dc496ede6b6bf18be256f3a0c5a589b128ec7a402f615f"
+metafile = true
+
+[[files]]
 file = "mods/create-storage.pw.toml"
 hash = "67efa1c63549cd02c1d44614506da0426efe52b9ab729fc19576434ad9ccff8b"
 metafile = true
@@ -1366,6 +1371,11 @@ metafile = true
 [[files]]
 file = "mods/shield-api.pw.toml"
 hash = "f35e3c7edf9add12ed604771fa90453d09757e21718c14a637835f9f39b7dc17"
+metafile = true
+
+[[files]]
+file = "mods/simple-veinminer.pw.toml"
+hash = "4e5317192ece2a507f395745ffc696388f52d2ad3d7a202fe1a548c125efd70f"
 metafile = true
 
 [[files]]

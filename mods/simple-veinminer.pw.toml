@@ -1,0 +1,13 @@
+name = "Simple Veinminer"
+filename = "SimpleVeinminer-1.20.1-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4394ca23b67d78387a88838b7073a44f8e224425"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5030227
+project-id = 580320
